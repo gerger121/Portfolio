@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "icon": "🟨",
+    "category": "Programming"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "icon": "🐍",
+    "category": "Programming"
+  },
+  {
+    "id": 3,
+    "name": "C#",
+    "icon": "🔷",
+    "category": "Programming"
+  },
+  {
+    "id": 4,
+    "name": "HTML",
+    "icon": "🌐",
+    "category": "Frontend"
+  },
+  {
+    "id": 5,
+    "name": "CSS",
+    "icon": "🎨",
+    "category": "Frontend"
+  },
+  {
+    "id": 6,
+    "name": "PHP",
+    "icon": "🐘",
+    "category": "Backend"
+  },
+  {
+    "id": 7,
+    "name": ".NET",
+    "icon": "🔵",
+    "category": "Framework"
+  },
+  {
+    "id": 8,
+    "name": "SQL",
+    "icon": "🗃️",
+    "category": "Database"
+  },
+  {
+    "id": 9,
+    "name": "Git",
+    "icon": "📝",
+    "category": "Tools"
+  },
+  {
+    "id": 10,
+    "name": "Problem Solving",
+    "icon": "🧩",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 11,
+    "name": "Case Management",
+    "icon": "📋",
+    "category": "Soft Skills"
+  },
+  {
+    "id": 12,
+    "name": "Customer Service",
+    "icon": "🤝",
+    "category": "Soft Skills"
+  }
+]

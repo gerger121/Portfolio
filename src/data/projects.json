@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Student Management System",
+    "description": "A comprehensive case management system built with C# and .NET for tracking student progress, similar to my experience managing 40+ students at Tri County JOG. Features student profiles, progress tracking, and reporting.",
+    "image": "/images/project1.jpg",
+    "technologies": ["C#", ".NET", "SQL Server", "HTML/CSS"],
+    "liveDemo": "https://student-management-demo.vercel.app",
+    "github": "https://github.com/gervang/student-management",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Customer Service Portal",
+    "description": "A web-based customer service application inspired by my experience in solar consulting and tennis service. Built with PHP and JavaScript for managing client interactions and service requests.",
+    "image": "/images/project2.jpg",
+    "technologies": ["PHP", "JavaScript", "MySQL", "Bootstrap"],
+    "liveDemo": "https://customer-portal-demo.vercel.app",
+    "github": "https://github.com/gervang/customer-portal",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Health Care Assistant App",
+    "description": "A digital assistant for home health aides to track patient care, medication reminders, and appointment scheduling. Built based on my experience as a Home Health Aide.",
+    "image": "/images/project3.jpg",
+    "technologies": ["Python", "Flask", "SQLite", "HTML/CSS"],
+    "liveDemo": "https://healthcare-assistant-demo.vercel.app",
+    "github": "https://github.com/gervang/healthcare-assistant",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Inventory Management System",
+    "description": "A warehouse inventory tracking system inspired by my manufacturing experience at Jay-Em Aerospace. Features part tracking, machine maintenance logs, and workflow management.",
+    "image": "/images/project4.jpg",
+    "technologies": ["C#", ".NET Core", "SQL", "JavaScript"],
+    "liveDemo": "https://inventory-demo.vercel.app",
+    "github": "https://github.com/gervang/inventory-system",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Tennis Club Management",
+    "description": "A web application for managing tennis club operations including member registration, court booking, and equipment tracking. Based on my experience at Towpath Tennis Club.",
+    "image": "/images/project5.jpg",
+    "technologies": ["PHP", "MySQL", "JavaScript", "CSS"],
+    "liveDemo": "https://tennis-club-demo.vercel.app",
+    "github": "https://github.com/gervang/tennis-club",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Personal Portfolio Website",
+    "description": "A modern, responsive portfolio website showcasing my transition from social work to software development. Built with React and Tailwind CSS.",
+    "image": "/images/project6.jpg",
+    "technologies": ["React", "JavaScript", "Tailwind CSS", "HTML"],
+    "liveDemo": "https://gervang-portfolio.vercel.app",
+    "github": "https://github.com/gervang/portfolio",
+    "featured": true
+  }
+]
