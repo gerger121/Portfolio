@@ -6,7 +6,7 @@
     "image": "/images/project1.jpg",
     "technologies": ["C#", ".NET", "SQL Server", "HTML/CSS"],
     "liveDemo": "https://student-management-demo.vercel.app",
-    "github": "https://github.com/gervang/student-management",
+    "github": "https://github.com/gerger121/StudentManagementSys",
     "featured": true
   },
   {
@@ -36,7 +36,7 @@
     "image": "/images/project4.jpg",
     "technologies": ["C#", ".NET Core", "SQL", "JavaScript"],
     "liveDemo": "https://inventory-demo.vercel.app",
-    "github": "https://github.com/gervang/inventory-system",
+    "github": "https://github.com/gerger121/InventoryManagementSystem",
     "featured": false
   },
   {
@@ -46,7 +46,7 @@
     "image": "/images/project5.jpg",
     "technologies": ["PHP", "MySQL", "JavaScript", "CSS"],
     "liveDemo": "https://tennis-club-demo.vercel.app",
-    "github": "https://github.com/gervang/tennis-club",
+    "github": "https://github.com/gerger121/TennisWebApp",
     "featured": false
   },
   {
@@ -56,7 +56,7 @@
     "image": "/images/project6.jpg",
     "technologies": ["React", "JavaScript", "Tailwind CSS", "HTML"],
     "liveDemo": "https://gervang-portfolio.vercel.app",
-    "github": "https://github.com/gervang/portfolio",
+    "github": "https://github.com/gerger121/Portfolio",
     "featured": true
   }
 ]
