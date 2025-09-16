@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "title": "Customer Service Portal",
-    "description": "A web-based customer service application inspired by my experience in solar consulting and tennis service. Built with PHP and JavaScript for managing client interactions and service requests.",
+    "title": "Personal Finance Tracker",
+    "description": "A web-based system using for tracking personal Expenses",
     "image": "/images/project2.jpg",
-    "technologies": ["PHP", "JavaScript", "MySQL", "Bootstrap"],
-    "liveDemo": "https://customer-portal-demo.vercel.app",
-    "github": "https://github.com/gervang/customer-portal",
+    "technologies": ["HTML", "JavaScript", "MySQL", "Bootstrap"],
+    "liveDemo": "https://finance-demo.vercel.app",
+    "github": "https://github.com/gerger121/FinanceTracker",
     "featured": true
   },
   {
